@@ -3,7 +3,7 @@
     <td>
       <p><b>I am Ashutosh!</b></p>
       <p>Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.</p>
-      <p></p>
+      <p>I Build, I Deploy, I Scale :)</p>
     </td>
     <td>
       <p align="center"><b>She is Niña Índigo</b></p>
