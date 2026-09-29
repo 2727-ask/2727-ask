@@ -7,7 +7,7 @@
       <p>I Build, I Deploy, I Scale :)</p>
     </td>
     <td>
-      <p align="center"><b>She is Niña Índigo btw</b></p>
+      <p align="center"><b>She is 𑣲Niña Índigo btw</b></p>
       <img src="https://raw.githubusercontent.com/2727-ask/Ashutosh/master/uploads/ascii-art%20(2).png" alt="LILY" width="100%">
     </td>
   </tr>
