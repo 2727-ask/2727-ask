@@ -1,8 +1,9 @@
 <table>
   <tr>
     <td>
-      <p align="center"><b>♥︎ PROSKULL</b></p>
-      <img src="https://raw.githubusercontent.com/2727-ask/Ashutosh/master/uploads/ascii-art.png" alt="LILY" width="100%">
+      <p><b>I am Ashutosh!</b></p>
+      <p>Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.</p>
+      <p></p>
     </td>
     <td>
       <p align="center"><b>♥︎♥︎ My Niña Índigo</b></p>
